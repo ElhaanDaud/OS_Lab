@@ -1,0 +1,3 @@
+ gcc -o file file.c to convert the code into machine language 
+
+ then ./filename to run the file 
