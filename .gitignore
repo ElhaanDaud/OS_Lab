@@ -4,3 +4,7 @@ bankers_algorithm.exe
 fifo_page_replacement.exe
 optimal_page_replacement.exe
 L.exe
+SCAN_disk_sched.exe
+CSCAN_disk_sched.exe
+Prod_Consumer.exe
+settings.json
